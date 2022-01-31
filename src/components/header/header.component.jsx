@@ -5,7 +5,6 @@ import { ReactComponent as Logo } from "../../assets/crown.svg";
 
 import "./header.styles.scss";
 import reactRouterDom from "react-router-dom";
-import HomePage from "../../pages/homepage/homepage.component";
 
 const Header = () => (
   <div className="header">
